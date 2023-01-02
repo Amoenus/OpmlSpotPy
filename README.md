@@ -19,6 +19,7 @@ OpmlSpotPy is a command-line tool that allows you to import podcasts from an OPM
 
 ```bash
 git clone https://github.com/Amoenus/OpmlSpotPy
+cd OpmlSpotPy/src/OpmlSpotPy
 ```
 
 #### 2. Install dependencies
