@@ -6,7 +6,7 @@ OpmlSpotPy is a command-line tool that allows you to import podcasts from an OPM
 ### Prerequisites
 
 - Python 3.9 (did not test on other versions)
-- [pip](https://pip.pypa.io/en/stable/installing/)
+- [pip](https://pip.pypa.io/en/stable/installation/)
 - A Spotify account
 - A Spotify app with the `user-library-modify` scope enabled
   - A Spotify API `client ID` and `client secret`
