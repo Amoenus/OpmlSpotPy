@@ -45,7 +45,7 @@ cp .env-template .env
 > Your username will be displayed under the Username  heading.
 > Alternatively, you can find your username by visiting your Spotify profile page on the web and looking for the `https://open.spotify.com/user/` portion of the URL. The string of characters that follows `/user/` is your Spotify username.
 
-Create a file named `.env` in the root of the project and add the following environment variables:
+Update previosly created `.env` file with the following environment variables:
 
 ```text
 OPMLSPOT_CLIENT_ID=your-client-id
